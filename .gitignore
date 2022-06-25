@@ -8,6 +8,8 @@ node_modules
 # build
 /out
 /dist
+/contract/target
+.parcel-cache
 
 # keys
 /neardev
